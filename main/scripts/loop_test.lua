@@ -1,5 +1,4 @@
-function init(self)
-	print("This is Defold lua test start")
+function run_test()
 	local t1 = socket.gettime()
 	local sum = 0
 	for n=1,100000000,1
@@ -9,5 +8,5 @@ function init(self)
 	local t2 = socket.gettime()
 	local msec = (t2 - t1) * 1000
 	local displayText = "Sum = " .. sum .. "  Time Taken = " .. msec .. " ms"
-	label.set_text("/go#label", displayText)
+	return displayText
 end

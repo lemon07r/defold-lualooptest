@@ -1,13 +1,10 @@
-# Welcome to Defold
+This is just a simple lua for loop benchmark example running on defold.
 
-This project was created from the "empty" project template.
+You don't need this whole project, you can just copy the code from the benchmark module, main/scripts/loop.test to try it in your own defold project.
 
-The settings in ["game.project"](defold://open?path=/game.project) are all the default. A bootstrap empty ["main.collection"](defold://open?path=/main/main.collection) is included.
+This simple example runs the benchmark module every button click and sets the text on screen to the returned results. 
 
-Check out [the documentation pages](https://defold.com/learn) for examples, tutorials, manuals and API docs.
+If you're lazy and want to try it on your own device I've uploaded exported release bundles for Android, HTML5, and Windows. 
 
-If you run into trouble, help is available in [our forum](https://forum.defold.com).
-
-Happy Defolding!
-
+https://github.com/lemon07r/defold-lualooptest/releases  
 ---
