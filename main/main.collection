@@ -60,7 +60,7 @@ embedded_instances {
   "material: \\\"/builtins/fonts/label.material\\\"\\n"
   "\"\n"
   "  position {\n"
-  "    x: 180.0\n"
+  "    x: 240.0\n"
   "    y: 30.0\n"
   "    z: 0.0\n"
   "  }\n"
