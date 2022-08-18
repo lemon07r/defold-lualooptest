@@ -1,6 +1,6 @@
 This is just a simple lua for loop benchmark example running on defold.
 
-You don't need this whole project, you can just copy the code from the benchmark module, main/scripts/loop.test to try it in your own defold project.
+You don't need this whole project, you can just copy the code from the benchmark module, main/scripts/loop_test.lua to try it in your own defold project.
 
 This simple example runs the benchmark module every button click and sets the text on screen to the returned results. 
 
